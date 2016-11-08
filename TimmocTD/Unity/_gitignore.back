@@ -1,0 +1,11 @@
+
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+
+*.meta
+*.csproj
+*.sln
+*.userprefs
+*.DS_Store
+Thumbs.db

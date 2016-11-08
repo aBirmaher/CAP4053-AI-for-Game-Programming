@@ -1,0 +1,1 @@
+after doing root mean square adjusting on each individual error, how are we supposed to compile those error values into one error that we can compare to our threshold?
